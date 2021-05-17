@@ -1,0 +1,55 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.invictus {
+  margin: 20px;
+  border-radius: 0cm;
+  background-color: lightblue;
+  padding: 10px;
+  align-items: center;
+  border-radius: 10px;
+}
+.text {
+  border-radius: 10px;
+  height: 30px;
+  margin: 0px 0px 0px 400px;
+  padding: 2px;
+  width: 400px;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+.entry {
+  margin: 80px 50px -20px 350px;
+  padding: 5px;
+  height: 30px;
+  width: 400px;
+  background-color: lightyellow;
+  border-radius: 100px;
+}
+.button {
+  margin: 25px 50px 0px 50px;
+  padding: 2px;
+  height: 50px;
+  padding: 5px;
+  width: 150px;
+  border-radius: 100px;
+}
+.content {
+  background-color: lightsalmon;
+  height: 200px;
+  width: 33cm;
+  padding: 25px;
+  border-radius: 20px;
+  border-color: black;
+}
+.Answer{
+  margin-top: 20px;
+  background-color: chocolate;
+  border-radius: 20px;
+  width: 33cm;
+  padding: 25px;
+  
+}
